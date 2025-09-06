@@ -38,7 +38,42 @@ The goal is to predict whether a passenger survived the Titanic shipwreck, based
 - scikit-learn  
 - xgboost  
 
-Install dependencies:  
+Install dependencies with:  
 
-```bash
-pip install -r requirements.txt
+pip install -r requirements.txt  
+
+---
+
+## 🚀 Usage  
+
+1. Clone the repository:  
+   git clone https://github.com/your-username/titanic-survival.git  
+   cd titanic-survival  
+
+2. Download Titanic dataset from Kaggle and place inside `data/`:  
+   https://www.kaggle.com/c/titanic/data  
+
+3. Run the notebook:  
+   jupyter notebook titanic-comp-finale.ipynb  
+
+4. Generate predictions → outputs `submission.csv` for Kaggle.  
+
+---
+
+
+## 🔮 Future Work  
+
+- Hyperparameter tuning with Optuna/GridSearch  
+- Advanced feature engineering  
+- Stacking/ensemble models  
+- Deploy as a **Streamlit/Flask** web app  
+
+---
+
+## 📜 License  
+
+This project is open-source under the **MIT License**.  
+
+---
+
+<p align="center">Made with ❤️ and ML 🚀</p>
