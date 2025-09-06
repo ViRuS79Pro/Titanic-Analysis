@@ -1,7 +1,7 @@
 # 🚢 Titanic Survival Prediction  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Titanic_shipwreck_model.jpg" alt="Titanic" width="600"/>
+  <img src="https://en.wikipedia.org/wiki/Sinking_of_the_Titanic#/media/File:St%C3%B6wer_Titanic.jpg" alt="Titanic" width="600"/>
 </p>
 
 A machine learning project for the **Kaggle Titanic: Machine Learning from Disaster** competition.  
