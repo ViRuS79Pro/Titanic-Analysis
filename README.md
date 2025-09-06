@@ -1,39 +1,44 @@
-# Titanic Survival Prediction 🚢
+# 🚢 Titanic Survival Prediction  
 
-This project is a machine learning solution for the famous **Kaggle Titanic: Machine Learning from Disaster** competition.  
-The task is to build a model that predicts whether a passenger survived the Titanic shipwreck, based on features such as age, sex, class, and more.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Titanic_shipwreck_model.jpg" alt="Titanic" width="600"/>
+</p>
 
----
-
-## 📂 Project Structure
-
-├── titanic-comp-finale.ipynb # Jupyter Notebook with full workflow
-├── data/ # (optional) place Titanic CSV files here
-├── README.md # Project documentation
-
+A machine learning project for the **Kaggle Titanic: Machine Learning from Disaster** competition.  
+The goal is to predict whether a passenger survived the Titanic shipwreck, based on features such as age, sex, ticket class, and more.  
 
 ---
 
-## 🔑 Key Features
+## 🏗️ Project Structure
 
-- **Data Exploration (EDA):** Analyzing passenger demographics and survival rates.  
-- **Data Preprocessing:** Handling missing values, feature engineering, encoding categorical data, and scaling.  
-- **Model Training:** Using machine learning algorithms (e.g., Logistic Regression, Random Forest, XGBoost, etc.) for prediction.  
-- **Evaluation:** Assessing model performance with accuracy and cross-validation.  
-- **Submission:** Generating a `submission.csv` file for Kaggle.  
+├── titanic-comp-finale.ipynb   # Jupyter Notebook with full workflow  
+├── data/                       # (optional) place Titanic CSV files here  
+├── README.md                   # Project documentation  
 
 ---
 
-## 🛠️ Requirements
+## ✨ Features  
 
-Make sure you have the following installed:
+✅ **Exploratory Data Analysis (EDA):** Passenger demographics & survival insights  
+✅ **Preprocessing:** Missing values, feature engineering, categorical encoding  
+✅ **Models:** Logistic Regression, Random Forest, XGBoost (or others you used)  
+✅ **Evaluation:** Accuracy, confusion matrix, cross-validation  
+✅ **Submission:** Generates `submission.csv` for Kaggle  
+
+---
+
+## 🛠️ Requirements  
+
+- python 3.8+  
+- jupyter  
+- numpy  
+- pandas  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+- xgboost  
+
+Install dependencies:  
 
 ```bash
-python 3.8+
-jupyter
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost   # if used
+pip install -r requirements.txt
