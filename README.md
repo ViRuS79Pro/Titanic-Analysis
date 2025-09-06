@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ## 🚀 Usage  
 
 1. Clone the repository:  
-   git clone https://github.com/your-username/titanic-survival.git  
+   git clone https://github.com/ViRuS79Pro/titanic-analysis.git  
    cd titanic-survival  
 
 2. Download Titanic dataset from Kaggle and place inside `data/`:  
