@@ -10,11 +10,11 @@ The goal is to predict whether a passenger survived the Titanic shipwreck, based
 ---
 
 ## 🏗️ Project Structure
-
+```
 ├── titanic-comp-finale.ipynb   # Jupyter Notebook with full workflow  
 ├── data/                       # (optional) place Titanic CSV files here  
 ├── README.md                   # Project documentation  
-
+```
 ---
 
 ## ✨ Features  
