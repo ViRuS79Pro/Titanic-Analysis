@@ -1,8 +1,6 @@
 # 🚢 Titanic Survival Prediction  
 
-<p align="center">
-  <img src="https://en.wikipedia.org/wiki/Sinking_of_the_Titanic#/media/File:St%C3%B6wer_Titanic.jpg" alt="Titanic" width="600"/>
-</p>
+![frontpage](https://github.com/ViRuS79Pro/ecommerce-Sales-Dashboard/blob/main/images/)
 
 A machine learning project for the **Kaggle Titanic: Machine Learning from Disaster** competition.  
 The goal is to predict whether a passenger survived the Titanic shipwreck, based on features such as age, sex, ticket class, and more.  
