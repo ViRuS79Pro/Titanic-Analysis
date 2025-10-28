@@ -1,18 +1,12 @@
 # 🚢 Titanic Survival Prediction  
 
-![frontpage](https://github.com/ViRuS79Pro/ecommerce-Sales-Dashboard/blob/main/images/)
+![frontpage](https://github.com/ViRuS79Pro/Titanic-Analysis/blob/main/images/St%C3%B6wer_Titanic.jpg)
 
 A machine learning project for the **Kaggle Titanic: Machine Learning from Disaster** competition.  
 The goal is to predict whether a passenger survived the Titanic shipwreck, based on features such as age, sex, ticket class, and more.  
 
----
+🔗 **Kaggle Competition Link:** [Titanic - Machine Learning from Disaster]([https://www.kaggle.com/competitions/titanic](https://www.kaggle.com/code/sibasundarmanik/titanic-comp-finale))
 
-## 🏗️ Project Structure
-```
-├── titanic-comp-finale.ipynb   # Jupyter Notebook with full workflow  
-├── data/                       # (optional) place Titanic CSV files here  
-├── README.md                   # Project documentation  
-```
 ---
 
 ## ✨ Features  
