@@ -7,7 +7,7 @@ The goal is to predict whether a passenger survived the Titanic shipwreck, based
 
 ---
 
-🔗 **Kaggle Competition Link:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/code/sibasundarmanik/titanic-comp-finale)
+🔗 **My Kaggle Submission Link:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/code/sibasundarmanik/titanic-comp-finale)
 
 ---
 
